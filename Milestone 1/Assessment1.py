@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from collections import Counter
 try:
-    with open(r"C:\Users\Administrator\Desktop\PythonTraining\Milestone 1\Novel.txt",'r',encoding='utf8') as file:
+    with open(r"C:\Users\Administrator\Desktop\PythonTraining\Milestone 1\Novel.csv",'r',encoding='utf8') as file:
         noveldata=file.read()
 except FileNotFoundError as e:
     print("No such file present")
