@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_csv(r"C:\Users\Administrator\Desktop\Python Training\Titanic\titanic.csv")
+df=pd.read_csv(r"C:\Users\Administrator\Desktop\PythonTraining\PythonTraining_DailyTask\Titanic\titanic.csv")
 print(df.head())
 #print first 4 of the age column
 

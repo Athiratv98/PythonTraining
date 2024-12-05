@@ -10,5 +10,4 @@ print("Please enter the username")
 username=input()
 print("The number of times name need to print")
 limit=int(input())
-Namescountprint
-(username,limit)
+Namescountprint(username,limit)

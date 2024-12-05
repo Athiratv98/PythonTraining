@@ -19,6 +19,6 @@ def Print_Result(target_school):
             print(line)
     
 
-file=open(r'C:\Users\Administrator\Desktop\Python Training\Day8\Info.csv','r')
+file=open(r'C:\Users\Administrator\Desktop\PythonTraining\PythonTraining_DailyTask\Day8\Info.csv','r')
 Print_Result("XC")
 file.close()

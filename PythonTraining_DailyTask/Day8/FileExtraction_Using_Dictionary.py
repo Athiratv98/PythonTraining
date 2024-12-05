@@ -14,6 +14,6 @@ def Print_Result(school):
     return count
     
 
-file=open(r'C:\Users\Administrator\Desktop\Python Training\Day8\Info.csv','r')
+file=open(r'C:\Users\Administrator\Desktop\PythonTraining\PythonTraining_DailyTask\Day8\Info.csv','r')
 print(Print_Result("BU"))
 file.close()

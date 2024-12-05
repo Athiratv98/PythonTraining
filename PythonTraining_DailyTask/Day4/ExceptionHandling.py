@@ -1,3 +1,4 @@
+
 try:
     numerator=int(input("Please enter numerator: "))
     demonimator=int(input("Please enter denominator: "))
