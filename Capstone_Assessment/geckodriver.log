@@ -1,0 +1,89 @@
+1733714559172	geckodriver	INFO	Listening on 127.0.0.1:63689
+1733714562272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexSXECf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733714563766	Marionette	INFO	Marionette enabled
+1733714563944	Marionette	INFO	Listening on port 63715
+WebDriver BiDi listening on ws://127.0.0.1:63695
+Read port: 63715
+1733714564182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 49: Script terminated by timeout at:
+C@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:49:1408
+95846/t.PromptableBase@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-69c032b085ebbfbc.js:235:407418
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733714614307	Marionette	INFO	Stopped listening on port 63707
+Dynamically enable window occlusion 1
+.js:9:91081
+576/t/<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:96666
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-5fbb6157015da9ad.js:43:40508
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-5fbb6157015da9ad.js:43:46475
+83752/e9/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-5fbb6157015da9ad.js:47:4735
+e9@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-5fbb6157015da9ad.js:47:4772
+ta@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-5fbb6157015da9ad.js:47:5624
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733714612775	Marionette	INFO	Stopped listening on port 63715
+Dynamically enable window occlusion 1
+1733714615849	geckodriver	INFO	Listening on 127.0.0.1:64007
+1733714618910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAXB9rU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733714619393	Marionette	INFO	Marionette enabled
+1733714619562	Marionette	INFO	Listening on port 64016
+WebDriver BiDi listening on ws://127.0.0.1:64008
+Read port: 64016
+1733714619764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733714632766	Marionette	INFO	Stopped listening on port 64016
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-69c032b085ebbfbc.js, line 235: Script terminated by timeout at:
+3695/t.resizeWatcher/a<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-69c032b085ebbfbc.js:235:532357
+
+Dynamically enable window occlusion 1
+1733714844862	geckodriver	INFO	Listening on 127.0.0.1:64227
+1733714847960	mozrunner::runner	INFO	Running command: "C:\\P1733714850907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQskhYL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733714851357	Marionette	INFO	Marionette enabled
+1733714851582	Marionette	INFO	Listening on port 64259
+WebDriver BiDi listening on ws://127.0.0.1:64234
+Read port: 64259
+1733714851796	RemoteAgent	WA1733714856773	Marionette	WARN	Ignoring event 'DOMContentLoad1733714859778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733714859779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733714859780	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733714859780	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733714859780	Marionette	WARN	Ignoring event 'DOMContentLoadedJavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733714963545	Marionette	INFO	Stopped listening on port 64239
+Dynamically enable window occlusion 1
+rk-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+rK@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:42177
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72714
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+Dynamically enable window occlusion 1
